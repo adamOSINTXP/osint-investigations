@@ -1,4 +1,3 @@
-# OSINT-Investigations
 OSINT investigations focused on identity analysis, behavioral patterns, and digital footprint correlation.
 
 #  OSINT Investigation Portfolio
